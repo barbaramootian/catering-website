@@ -1,0 +1,10 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #101633;
+}
+.nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+     color: white;
+}
